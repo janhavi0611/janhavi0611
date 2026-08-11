@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="1.gif" alt="Banner" />
 
 <!--
 **janhavi0611/janhavi0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
